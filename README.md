@@ -7,7 +7,7 @@ As a curious and motivated developer, I love experimenting to bring ideas to lif
 
 ### 🚀 My Links
 - 📄 Here's my CV -> [📄](./CV_CamillePurificato.pdf)
-- 🌐 [Itch.io Portfolio]()
+- 🌐 [Itch.io Portfolio](https://cammypurificato.itch.io/)
 
 <!--
 **Purificato/Purificato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
