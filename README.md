@@ -1,4 +1,4 @@
-## Hi ! I'm Camille ✨
+## Hi ! I'm Cammy ✨
 
 I'm a passionate game developer and creative.
 I'm currently learning Unity and enjoying the process of discovering Unreal Engine.  
