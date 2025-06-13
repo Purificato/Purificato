@@ -4,6 +4,11 @@ I'm a passionate game developer and creative.
 I'm currently learning Unity and enjoying the process of discovering Unreal Engine.  
 As a curious and motivated developer, I love experimenting to bring ideas to life and create fun. 😄 
 
+
+### 🚀 My Links
+- 📄 Here's my [CV](./CV CamillePurificato.pdf)
+- 🌐 [Itch.io Portfolio]()
+
 <!--
 **Purificato/Purificato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
