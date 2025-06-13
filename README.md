@@ -6,7 +6,7 @@ As a curious and motivated developer, I love experimenting to bring ideas to lif
 
 
 ### 🚀 My Links
-- 📄 Here's my [CV](./CV CamillePurificato.pdf)
+- 📄 Here's my [CV](./CV_CamillePurificato.pdf)
 - 🌐 [Itch.io Portfolio]()
 
 <!--
